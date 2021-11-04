@@ -1,2 +1,8 @@
 # igone Envirnment File
 venv
+
+# ignore pytest_cache
+
+.pytest_cache
+
+tests/__pycache__
