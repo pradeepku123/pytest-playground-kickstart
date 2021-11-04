@@ -7,24 +7,24 @@
 
 ## Create VitualEnvirnment
 
-    1.1: python3.10 -m venv venv
-    1.2: source venv/bin/activate
+    1.1: $python3.10 -m venv venv
+    1.2: $source venv/bin/activate
 
 ## Dependencies Tree Management
 
-    1.1: pip freeze > requirements.txt
-    1.2  pip install -r requirement.txt # To installed all Dependencies which was present in Requirement.txt File(1f All ready exist)
+    1.1: $pip freeze > requirements.txt
+    1.2: $pip install -r requirement.txt # To installed all Dependencies which was present in Requirement.txt File(1f All ready exist)
 
 ## Check Envirnment Setup
 
     it should be Dispaly Commandline "(<Virtualenv Name>) <Sysytem Name>:~/workstation/pytest-playground-kickstart$"
-    python --version
-    pip --version
+    1.1: $python --version
+    1.2: $pip --version
 
 ## Setup Git
 
-    1.1 git inti
-    1.2 git status
+    1.1: $git inti
+    1.2: $git status
 
 ## Create Project Directory
 
@@ -34,5 +34,9 @@
 
 ## Install Packages
 
-1.1:pip install -U pytest
-1.2:pytest --version
+    1.1:$pip install -U pytest
+    1.2:$pytest --version
+
+## Run your First Pytest
+
+    1.1: $python -m pytest / $pytest
