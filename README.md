@@ -1,9 +1,9 @@
 ## Pytest Kick Start
 
-1.1: Python should be installed in your Sysytem.
-1.2: Vistual Envirnment Should be installed in your System Like (Virtualenv,pipenv).
-1.3: pip Should be installed in your Sysytem.
-1.4: VsCode Should be installed.
+    1.1: Python should be installed in your Sysytem.
+    1.2: Vistual Envirnment Should be installed in your System Like (Virtualenv,pipenv).
+    1.3: pip Should be installed in your Sysytem.
+    1.4: VsCode Should be installed.
 
 ## Create VitualEnvirnment
 
